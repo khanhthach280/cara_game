@@ -13,6 +13,8 @@ import '../style/delayed_appear.dart';
 class MainMenuScreen extends StatelessWidget {
   const MainMenuScreen({super.key});
 
+  // khanh
+
   @override
   Widget build(BuildContext context) {
     final palette = context.watch<Palette>();
